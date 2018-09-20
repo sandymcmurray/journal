@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "2018 Test",
+    "description": "",
+    "home_page_url": "https://sandymcmurray.github.io/journal",
+    "feed_url": "https://sandymcmurray.github.io/journal/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sandy McMurray"
+    },
+    "items": [
+        {
+            "id": "https://sandymcmurray.github.io/journal/hello-world.html",
+            "url": "https://sandymcmurray.github.io/journal/hello-world.html",
+            "title": "Hello World!",
+            "summary": "Testing simple blogging on Github Pages using Publii.",
+            "content_html": "Testing simple blogging on Github Pages using Publii.",
+            "image": "https://sandymcmurray.github.io/journal/media/posts/1/",
+            "author": {
+                "name": "Sandy McMurray"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-20T12:58:47-04:00",
+            "date_modified": "2018-09-20T12:58:47-04:00"
+        }
+    ]
+}

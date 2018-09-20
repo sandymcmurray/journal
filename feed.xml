@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>2018 Test</title>
+    <link href="https://sandymcmurray.github.io/journal/feed.xml" rel="self" />
+    <link href="https://sandymcmurray.github.io/journal" />
+    <updated>2018-09-20T13:09:22-04:00</updated>
+    <author>
+        <name>Sandy McMurray</name>
+    </author>
+    <id>https://sandymcmurray.github.io/journal</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Sandy McMurray</name>
+        </author>
+        <link href="https://sandymcmurray.github.io/journal/hello-world.html"/>
+        <id>https://sandymcmurray.github.io/journal/hello-world.html</id>
+
+        <updated>2018-09-20T12:58:47-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sandymcmurray.github.io/journal/media/posts/1/" alt="" />
+                    Testing simple blogging on Github Pages using Publii.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sandymcmurray.github.io/journal/media/posts/1/" alt="" />
+                Testing simple blogging on Github Pages using Publii.
+            ]]>
+        </content>
+    </entry>
+</feed>

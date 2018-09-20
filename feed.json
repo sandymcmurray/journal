@@ -5,7 +5,6 @@
     "home_page_url": "https://sandymcmurray.github.io/journal",
     "feed_url": "https://sandymcmurray.github.io/journal/feed.json",
     "user_comment": "",
-    "icon": "https://sandymcmurray.github.io/journal/media/website/clouds.jpg",
     "author": {
         "name": "Sandy McMurray"
     },
@@ -14,8 +13,8 @@
             "id": "https://sandymcmurray.github.io/journal/hello-world.html",
             "url": "https://sandymcmurray.github.io/journal/hello-world.html",
             "title": "Hello World!",
-            "summary": "Testing simple blogging on Github Pages using Publii.",
-            "content_html": "Testing simple blogging on Github Pages using Publii.",
+            "summary": "Testing simple blogging on Github Pages using Publii. ",
+            "content_html": "<p>Testing simple blogging on Github Pages using Publii.</p>\n<figure class=\"post__image undefined\" ><img src=\"https://sandymcmurray.github.io/journal/media/posts/1/2000px-Hello_my_name_is_sticker.svg.png\" alt=\"Hello my name is Sandy\" width=\"2000\" height=\"1430\">\n<figcaption >Sandy. It's Sandy.</figcaption>\n</figure>\n<p> </p>",
             "image": "https://sandymcmurray.github.io/journal/media/posts/1/",
             "author": {
                 "name": "Sandy McMurray"
@@ -23,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2018-09-20T12:58:47-04:00",
-            "date_modified": "2018-09-20T12:58:47-04:00"
+            "date_modified": "2018-09-20T18:14:10-04:00"
         }
     ]
 }

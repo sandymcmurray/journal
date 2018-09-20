@@ -3,7 +3,7 @@
     <title>2018 Test</title>
     <link href="https://sandymcmurray.github.io/journal/feed.xml" rel="self" />
     <link href="https://sandymcmurray.github.io/journal" />
-    <updated>2018-09-20T18:14:17-04:00</updated>
+    <updated>2018-09-20T18:15:14-04:00</updated>
     <author>
         <name>Sandy McMurray</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://sandymcmurray.github.io/journal/hello-world.html"/>
         <id>https://sandymcmurray.github.io/journal/hello-world.html</id>
 
-        <updated>2018-09-20T18:14:10-04:00</updated>
+        <updated>2018-09-20T18:15:08-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sandymcmurray.github.io/journal/media/posts/1/" alt="" />
@@ -28,7 +28,7 @@
             <![CDATA[
                     <img src="https://sandymcmurray.github.io/journal/media/posts/1/" alt="" />
                 <p>Testing simple blogging on Github Pages using Publii.</p>
-<figure class="post__image undefined" ><img src="https://sandymcmurray.github.io/journal/media/posts/1/2000px-Hello_my_name_is_sticker.svg.png" alt="Hello my name is Sandy" width="2000" height="1430">
+<figure class="post__image post__image--left" ><img src="https://sandymcmurray.github.io/journal/media/posts/1/2000px-Hello_my_name_is_sticker.svg.png" alt="Hello my name is Sandy" width="300" height="215">
 <figcaption >Sandy. It's Sandy.</figcaption>
 </figure>
 <p> </p>
